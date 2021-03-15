@@ -67,5 +67,6 @@
     <None Include="dbo\Tables\InsertPlayerData1000to2000.sql" />
     <None Include="dbo\Tables\insertPlayerData2000to3000.sql" />
     <None Include="dbo\Tables\Algo.sql" />
+    <None Include="dbo\Tables\2ndAlgo.sql" />
   </ItemGroup>
 </Project>
